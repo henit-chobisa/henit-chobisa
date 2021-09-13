@@ -95,8 +95,17 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 &nbsp;
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463255/mongodb_original_wordmark_logo_icon_146425_dkfbqc.png" />
 &nbsp;
-
+&nbsp;
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631549205/firebase_rbudwy.png" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631549211/java_dsw66z.png" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631549198/html_pmjl6j.png" />
 </div>
 <br>
 <br>
