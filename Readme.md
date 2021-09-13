@@ -2,7 +2,7 @@ Self
 
 
 <p align = "center">
-<img  src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631424300/Self/ezgif-5-68a1793b1a9d_yea9o1.gif" />
+<img width = "280px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631424300/Self/ezgif-5-68a1793b1a9d_yea9o1.gif" />
 </p>
 
 <h1 align = "center">Hello There!!!</h1>
