@@ -24,6 +24,7 @@ Fortunately one day, while working in a internship my senior asked my to make an
 So, that's it till now, I am in the 3 semester of my college and learning new things daily.
 
 # Project Glimpse......😊
+### Tap to navigate to the repository.
 
 <div class="scrollmenu" align = "center">
 	<a href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
