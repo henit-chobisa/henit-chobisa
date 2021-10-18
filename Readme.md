@@ -114,7 +114,6 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 <h1 align = "center">My GITHUB Stats</h1>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=HENIT0885&show_icons=true&theme=onedark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HENIT0885&show_icons=true&theme=onedark">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=henit0885&theme=onedark">
 </div>
 
