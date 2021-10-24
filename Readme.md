@@ -14,7 +14,7 @@
 	
 ### Tech Stack Used in Crazy Paint
 
-<div class="scrollmenu" align = "right">
+<div class="scrollmenu" align = "left">
 
 <img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
 &nbsp;
