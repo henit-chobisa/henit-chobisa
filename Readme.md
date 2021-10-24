@@ -7,10 +7,10 @@
 <p>You can discuss, plan or maybe play together with your colleagues or friends. Have a look!</p>
 <p>Regards!</p>
 
-<video width = "650" align="center" autoplay muted>
-  <source src="https://res.cloudinary.com/ddglxo0l3/video/upload/v1635090962/CrazyPaintDemo/Screen_Recording_2021-10-24_at_9.22.39_PM_hn8ue2.mov" type="video/mp4">
-
-</video>
+ </a>
+<a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
+ <img   src = "https://firebasestorage.googleapis.com/v0/b/innowaste-b4fcd.appspot.com/o/4%403.com%2FScreen%20Recording%202021-10-24%20at%209.22.39%20PM.gif?alt=media&token=f2a3125e-0d9b-4d55-a736-dfdf6a66af92" />
+ </a>
 	
 ### Tech Stack Used in Crazy Paint
 
