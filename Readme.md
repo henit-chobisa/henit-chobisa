@@ -1,8 +1,44 @@
-Self
+# Wall of Recent Project
+## [Crazy Paint : Talk - Draw - Discuss or Play](https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter)
+
+## Version 1.2.0 released - October 22nd 2021
+
+<p>Crazy paint is an app where you can TALK and DRAW together made with socket IO. Incredibly useful application know for its handiness and to achieve the goal of its "FASTEST IDEA DISCUSSION STRATEGY".</p>
+<p>You can discuss, plan or maybe play together with your colleagues or friends. Have a look!</p>
+<p>Regards!</p>
+
+<video width = "650" align="center" autoplay muted>
+  <source src="https://res.cloudinary.com/ddglxo0l3/video/upload/v1635090962/CrazyPaintDemo/Screen_Recording_2021-10-24_at_9.22.39_PM_hn8ue2.mov" type="video/mp4">
+
+</video>
+	
+### Tech Stack Used in Crazy Paint
+
+<div class="scrollmenu" align = "center">
+
+<img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462540/dart_wssxr2.svg" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463362/nodejs-logo-FBE122E377-seeklogo.com_faj8b3.png" />
+&nbsp;
+&nbsp;
+<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463255/mongodb_original_wordmark_logo_icon_146425_dkfbqc.png" />
+&nbsp;
+&nbsp;
+<img  width = "150px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635091544/images-5_o1roja.png" />
+&nbsp;
+&nbsp;
 
 
+
+
+<br>
+<br>
 <p align = "center">
-<img width = "280px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631424300/Self/ezgif-5-68a1793b1a9d_yea9o1.gif" />
+<img width="230" align="Left" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631424300/Self/ezgif-5-68a1793b1a9d_yea9o1.gif" />
 </p>
 
 <h1 align = "center">Hello There!!!</h1>
@@ -24,7 +60,6 @@ Fortunately one day, while working in a internship my senior asked my to make an
 So, that's it till now, I am in the 3 semester of my college and learning new things daily.
 
 # Project Glimpse......😊
-### Tap to navigate to the repository.
 
 <div class="scrollmenu" align = "center">
 	<a href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
@@ -96,25 +131,16 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 &nbsp;
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463255/mongodb_original_wordmark_logo_icon_146425_dkfbqc.png" />
 &nbsp;
-&nbsp;
+
 <img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462488/python_oab1sq.svg" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631549205/firebase_rbudwy.png" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631549211/java_dsw66z.png" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631549198/html_pmjl6j.png" />
 </div>
 <br>
 <br>
 
 <h1 align = "center">My GITHUB Stats</h1>
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=HENIT0885&show_icons=true&theme=onedark"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=henit0885&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api?username=HENIT0885&show_icons=true&theme=onedark)
+"/>
 </div>
 
 <h1 align = "center">Let's Connect!!!</h1>
@@ -150,9 +176,4 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 </div>
 <br>
 <h1 align = "center">Thank You 😊 !!!</h1>
-
-
-
-
-
 
