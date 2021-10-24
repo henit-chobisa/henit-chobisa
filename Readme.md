@@ -9,7 +9,7 @@
 
  </a>
 <a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
- <img   src = "https://firebasestorage.googleapis.com/v0/b/innowaste-b4fcd.appspot.com/o/4%403.com%2FScreen%20Recording%202021-10-24%20at%209.22.39%20PM.gif?alt=media&token=f2a3125e-0d9b-4d55-a736-dfdf6a66af92" />
+ <img   src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
  </a>
 	
 ### Tech Stack Used in Crazy Paint
