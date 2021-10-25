@@ -1,5 +1,5 @@
 # Wall of Recent Project
-## [Crazy Paint : Talk - Draw - Discuss or Play](https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter)
+## [Crazy Paint : Talk - Draw - Discuss or Play (Android - IOS)](https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter)
 
 ## Version 1.2.0 released - October 22nd 2021
 
