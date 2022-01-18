@@ -7,7 +7,7 @@
 <p>Thank You!</p>
 
  </a>
-<a href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
+<a href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
  <img width="1000px"  src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </a>
 	
