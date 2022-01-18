@@ -3,7 +3,7 @@
 
 ## Proprietary App - December 5th 2021
 
-<p>FuturePreneurs Management App (FMA) is basically a remote monitoring system for the futurepreneurs testing portal, you can see if someone raise hands, you can connect through the participant through voice chat, you can get to know how many participants have completed a particular event, get to know "Who submitted which question" and also perform CRUD operations with the team data</p>
+<p>FuturePreneurs Management App (FMA) is basically a remote monitoring system for the futurepreneurs testing portal, you can see if someone raises their hands and then can connect to those participants through voice chat, you can get to know how many participants have completed a particular event, get to know "Who submitted which question" and could also perform CRUD operations with the teams' data</p>
 <p>Thank You!</p>
 
  </a>
