@@ -11,7 +11,7 @@
  <img width="1000px"  src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </a>
 	
-### Tech Stack Used in Crazy Paint
+### Tech Stack Used in FuturePreneurs Management App
 
 <div class="scrollmenu" align = "left">
 
