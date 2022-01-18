@@ -1,15 +1,14 @@
 # Wall of Recent Project
-## [Crazy Paint : Talk - Draw - Discuss or Play (Android - IOS)](https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter)
+## [FuturePreneurs Management App : Management of Event (FuturePreneurs ECELL-VIT Vellore) (Android - IOS)](https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter)
 
-## Version 1.2.0 released - October 22nd 2021
+## Proprietary App - December 5th 2021
 
-<p>Crazy paint is an app where you can TALK and DRAW together made with socket IO. Incredibly useful application know for its handiness and to achieve the goal of its "FASTEST IDEA DISCUSSION STRATEGY".</p>
-<p>You can discuss, plan or maybe play together with your colleagues or friends. Have a look!</p>
-<p>Regards!</p>
+<p>FuturePreneurs Management App (FMA) is basically a remote monitoring system for the futurepreneurs testing portal, you can see if someone raise hands, you can connect through the participant through voice chat, you can get to know how many participants have completed a particular event, get to know "Who submitted which question" and also perform CRUD operations with the team data</p>
+<p>Thank You!</p>
 
  </a>
 <a href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
- <img   src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
+ <img width="1000px"  src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </a>
 	
 ### Tech Stack Used in Crazy Paint
@@ -44,7 +43,7 @@
 <h1 align = "left">Hello There!!!</h1>
 
 
-## [Vellore Institute of Technology, Vellore, CSE - Semester - 3](https://vit.ac.in)
+## [Vellore Institute of Technology, Vellore, CSE - Semester - 4](https://vit.ac.in)
 
 # Let me introduce myself, first....
 
@@ -57,11 +56,14 @@ I started my journey from making Assistant bot in python by using dictionary tha
 **[Won Technicia 2021 Hackathon by making "INOWASTE APP"](https://github.com/HENIT0885/Innowaste-Project-Web-IOS.git)**
 
 Fortunately one day, while working in a internship my senior asked my to make an API in ***node js***, My reaction was like "WHAT, I DON'T KNOW EVEN JAVASCRIPT", he wanted that in 2 days and I wanted to do that task as a challenge on face to me, I skipped one day sleep and made the API, the code quality was not that good but considerable, **[ALPHABET](https://github.com/HENIT0885/Alphabet_Node.JS.git)**, Honestly speaking, I fall in love with node.js and backend programming, I knew flask before but Node was something very different, I made projects like **[Startup\_Guide\_Backend](https://github.com/HENIT0885/StartupGuide_Backend_NODE.git)**, **[Backend Mailer with nodejs and flask](https://github.com/HENIT0885/Backend-Mailer-with-node-and-python.git)** , **a huge backend system of [ROBOVITICS OFFICIAL](https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git) Application**, **[Startup Guide management Website using flask and bootstrap**](https://github.com/HENIT0885/Startup-Guide_Management-Website_FLASK.git)**
-So, that's it till now, I am in the 3 semester of my college and learning new things daily.
+So, that's it till now, I am in the 4 semester of my college and learning new things daily.
 
 # Project Glimpse......😊
 
 <div class="scrollmenu" align = "center">
+	<a href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
+ <img width = "455px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
+ </a>
 	<a href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
  <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456375/Self/ezgif-3-a9fb5a0b75d1_kpmmmm.gif" />
  </a>
