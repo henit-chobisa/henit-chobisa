@@ -1,7 +1,7 @@
 # Wall of Recent Project
 ## [FuturePreneurs Management App : Management of Event (FuturePreneurs ECELL-VIT Vellore) (Android - IOS)](https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter)
 
-## Proprietary App - December 5th 2021
+## [Try NOW! - December 5th 2021](https://github.com/HENIT0885/FuturePreneurs-Management-App/releases/tag/1.1)
 
 <p>FuturePreneurs Management App (FMA) is basically a remote monitoring system for the futurepreneurs testing portal, you can see if someone raise hands, you can connect through the participant through voice chat, you can get to know how many participants have completed a particular event, get to know "Who submitted which question" and also perform CRUD operations with the team data</p>
 <p>Thank You!</p>
