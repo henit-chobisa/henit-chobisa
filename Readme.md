@@ -1,7 +1,7 @@
 # Wall of Recent Project
 ## [River : Testing stomp never been this enjoyble!](https://github.com/HENIT0885/River-Stomp-Tester.git)
 
-## Version 1.4.0 released ( Mac and Windows ) - June 21st 2022
+## Version 1.4.0 released ( Mac and Windows ) - June 1st 2022
 
 <p>Scrolling stackoverflow again again and again, why? "HOW TO TEST STOMP WITH POSTMAN", round and round, pages and pages.
 I got a solution for you! Use *River*, River is free stomp testing software available for both windows and macOS, it provides you multiple sets either you have test one route by publishing different data or you have to test a routine for different routes all can be done with stomp, you can select multiple subscription routes and can on any remote publication recieved by the subscription, River notifies you with a ting of a bell, turn off if you don't like it
