@@ -66,10 +66,10 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 
 <div class="scrollmenu" align = "center">
 <a href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
- <img width = "400px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
+ <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
- <img width = "300px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
+ <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
  </a>
 	<a href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
  <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456375/Self/ezgif-3-a9fb5a0b75d1_kpmmmm.gif" />
