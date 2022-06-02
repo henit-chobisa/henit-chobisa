@@ -48,7 +48,7 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 
 # Project Glimpse......😊
 
-<div width = "300px" href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
+<div href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
  <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </div>
 <div width="300px" href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
