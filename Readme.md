@@ -64,7 +64,6 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 
 # Project Glimpse......😊
 
-<div class="scrollmenu" align = "center">
 <a href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
  <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </a>
@@ -101,9 +100,9 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 <a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
  <img  width = "295px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631459925/Self/ezgif-7-e91595cb0085_uuewys.gif" />
  </a>
-</div>
 <h3 align = "center">and many more............</h3>
 <br>
+
 
 ## Why Me?
 - Learn any tech stack faster, better at coping up with new technologies .
