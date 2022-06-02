@@ -14,29 +14,8 @@ I got a solution for you! Use *River*, River is free stomp testing software avai
 <a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
  <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654165339/River%20Stomp%20Tester/ezgif-2-d63b02bf64_valbf6.gif" />
  </a>
-	
-### Tech Stack User
-
-<div class="scrollmenu" align = "center">
-
-<img  width = "40px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462530/flutter_lqcbw6.svg" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462540/dart_wssxr2.svg" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463362/nodejs-logo-FBE122E377-seeklogo.com_faj8b3.png" />
-&nbsp;
-&nbsp;
-<img  width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631463255/mongodb_original_wordmark_logo_icon_146425_dkfbqc.png" />
-&nbsp;
-&nbsp;
-<img  width = "150px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635091544/images-5_o1roja.png" />
-&nbsp;
-&nbsp;
-
-
-
+ 
+ 
 
 <br>
 <br>
