@@ -68,7 +68,7 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
  <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
  </div>
 <div width="300px" href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
- <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
+ <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170781/Self/crazyPainNew_ijlsad.gif" />
  </div>
 	<div width="195px" href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
  <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654169889/Self/vertigoNew_x0jfw9.gif" />
