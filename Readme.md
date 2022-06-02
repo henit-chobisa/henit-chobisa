@@ -12,7 +12,7 @@ I got a solution for you! Use *River*, River is free stomp testing software avai
 
  </a>
 <a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
- <img  width = "1005px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654165339/River%20Stomp%20Tester/ezgif-2-d63b02bf64_valbf6.gif" />
+ <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654165339/River%20Stomp%20Tester/ezgif-2-d63b02bf64_valbf6.gif" />
  </a>
 	
 ### Tech Stack User
@@ -64,41 +64,38 @@ So, that's it till now, I am in the 3 semester of my college and learning new th
 
 # Project Glimpse......😊
 
-<a href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
- <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
- </a>
-<a href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
- <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
- </a>
-	<a href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
- <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456375/Self/ezgif-3-a9fb5a0b75d1_kpmmmm.gif" />
+<div width = "300px" href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
+ <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1642494458/samples/ezgif-5-a7d61eb936_nxb5f2.gif" />
+ </div>
+<div width="300px" href = "https://github.com/HENIT0885/CrazyPaint-SocketIO_Flutter">
+ <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1635093990/Screen_Recording_2021-10-24_at_10.14.11_PM_owd3dw.gif" />
+ </div>
+	<div width="195px" href = "https://github.com/HENIT0885/Vertigo-IOS-Application.git">
+ <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654169889/Self/vertigoNew_x0jfw9.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/PS-Unbreakable-Flutter.git">
- <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456375/Self/ezgif-3-c07b5b854ee7_dfehcz.gif" />
+ <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654169988/Self/PSNew_h9hqfs.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/Innowaste-Project-Web-IOS.git">
- <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456375/Self/ezgif-3-f63da9031c74_lulatu.gif" />
+ <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170071/Self/innowasteNew_lhheng.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/Trikon-Management-Application_DART.git">
- <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456374/Self/ezgif-3-bb28a5cf48f0_dpvzx0.gif" />
+ <img width = "195px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170151/Self/trikonNew_duegxe.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/Weather-IOS-App.git">
- <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456376/Self/ezgif-3-dbd39a01d31e_uwxzh4.gif" />
+ <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170245/Self/WeatherNew_g17kuj.gif" />
  </a>
 <a href = "https://github.com/ADG-VIT/Paper-VIT_IOS.git">
- <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631458117/Self/ezgif-7-f6a4fb668bf4_awax7k.gif" />
+ <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170308/Self/paperNew_logsxe.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/Rick_and_Morty-IOS_Application.git">
- <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631461231/Self/ezgif-7-0f8b00cd3760_onkr2i.gif" />
- </a>
-<a href = "https://github.com/HENIT0885/Ting-Ting-IOS-Application.git">
- <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631462021/ezgif-7-98001e320ff2_itidhl.gif" />
+ <img width = "195px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170380/Self/rickNew_alart8.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
- <img  width = "295px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631456370/Self/ezgif-3-2df163f6e9c4_ceyzec.gif" />
+ <img  width = "295px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170545/Self/roboNEW_u5ak9o.gif" />
  </a>
 <a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
- <img  width = "295px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631459925/Self/ezgif-7-e91595cb0085_uuewys.gif" />
+ <img  width = "295px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654170484/Self/ecellNew_gmsxcl.gif" />
  </a>
 <h3 align = "center">and many more............</h3>
 <br>
