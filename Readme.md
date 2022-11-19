@@ -10,11 +10,8 @@ I got a solution for you! Use *River*, River is free stomp testing software avai
 
 [Download Now!](https://github.com/HENIT0885/River-Stomp-Tester/releases/tag/v1.4.0-alpha)
 
- </a>
-<a href = "https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git">
- <img src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1654165339/River%20Stomp%20Tester/ezgif-2-d63b02bf64_valbf6.gif" />
- </a>
- 
+ ![ezgif-3-21c82cc42c](https://user-images.githubusercontent.com/72302948/202848766-26d2fe34-51e3-44b3-8c68-342c6f9c8933.gif)
+
 
 <h1 align = "Left">Know me more here!!!</h1>
 
