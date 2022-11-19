@@ -30,22 +30,6 @@ I got a solution for you! Use *River*, River is free stomp testing software avai
 
 <h1 align = "center">Hello There!!!</h1>
 
-
-## [Vellore Institute of Technology, Vellore, CSE - Semester - 3](https://vit.ac.in)
-
-# Let me introduce myself, first....
-
-*( Includes, how I learnt the tech stack over time and how I thought of the projects )*
-
-So, I am a curiosity driven developer currently persuing by B.Tech from Vellore Institute of Technology, a different kind of impluse flows through me notifying me always "Damn! That's awesome, let's create something BIG". Well, Sometimes I mess up due to this energy but that's okay.
-I am fond of Entrepreneurship and tech startups as much as I am interconnected to tech.
-I started my journey from making Assistant bot in python by using dictionary that created my interest in programming and made the **"WOW"** inside me towards it. Well after that I left that and started again before 2 months of college with C language and making the noob projects, like milkman's calculator 😂then switched to IOS development and was mad for it, I am still..., made projects like **NOBIS app (the chat app), [modified clima](https://github.com/HENIT0885/Weather-IOS-App.git) (the weather app) and the modified quiz app,** and thought of doing something big and I made **"[VERTIGO](https://github.com/HENIT0885/Vertigo-IOS-Application.git)"** my biggest IOS project, I will provide links of all my projects down or you can check my repositories. I was facing issues because people were loving the apps I made but they can't use them, that's why I learnt **FLUTTER** and there my cross platform journey took off, I made different types of project like **[PS Unbreakable](https://github.com/HENIT0885/PS-Unbreakable-Flutter.git)** ,**[Trikon Management Application](https://github.com/HENIT0885/Trikon-Management-Application_DART.git)**, [*ROBOVITICS OFFICIAL*](https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git) etc...
-
-**[Won Technicia 2021 Hackathon by making "INOWASTE APP"](https://github.com/HENIT0885/Innowaste-Project-Web-IOS.git)**
-
-Fortunately one day, while working in a internship my senior asked my to make an API in ***node js***, My reaction was like "WHAT, I DON'T KNOW EVEN JAVASCRIPT", he wanted that in 2 days and I wanted to do that task as a challenge on face to me, I skipped one day sleep and made the API, the code quality was not that good but considerable, **[ALPHABET](https://github.com/HENIT0885/Alphabet_Node.JS.git)**, Honestly speaking, I fall in love with node.js and backend programming, I knew flask before but Node was something very different, I made projects like **[Startup\_Guide\_Backend](https://github.com/HENIT0885/StartupGuide_Backend_NODE.git)**, **[Backend Mailer with nodejs and flask](https://github.com/HENIT0885/Backend-Mailer-with-node-and-python.git)** , **a huge backend system of [ROBOVITICS OFFICIAL](https://github.com/HENIT0885/Robovitics_Official-Summer_Project.git) Application**, **[Startup Guide management Website using flask and bootstrap**](https://github.com/HENIT0885/Startup-Guide_Management-Website_FLASK.git)**
-So, that's it till now, I am in the 3 semester of my college and learning new things daily.
-
 # Project Glimpse......😊
 
 <div href = "https://github.com/HENIT0885/FuturePreneurs-Management-App">
