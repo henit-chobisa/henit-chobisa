@@ -1,6 +1,6 @@
-<h1 align="center">Henit Chobisa</h1>
+<h1 align="left">Henit Chobisa</h1>
 
-<p align="center">
+<p align="left">
   Software engineer. I like understanding how things work, and building things that do.
 </p>
 
