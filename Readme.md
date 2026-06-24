@@ -17,8 +17,7 @@ the only way I actually trust what I know.
 
 - 🛠️ Maintainer @ **[Plane](https://github.com/makeplane/plane)**
 - 🌍 Google Summer of Code '23 @ Rocket.Chat · previously DevRel @ Merico
-- 🧩 Problem-solver by default — I pick up whatever the problem needs
-- 📚 Currently learning ML the hard way: building it from scratch to understand it
+- 🎤 Been singing from last 10 years, in love with country music
 
 ### Tech I work with
 
