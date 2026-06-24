@@ -1,8 +1,6 @@
-<h1 align="left">Henit Chobisa</h1>
+<h1>Henit Chobisa</h1>
 
-<p align="left">
-  Software engineer. I like understanding how things work, and building things that do.
-</p>
+<p>Software engineer. I like understanding how things work, and building things that do.</p>
 
 ---
 
@@ -17,7 +15,14 @@ the only way I actually trust what I know.
 
 - 🛠️ Maintainer @ **[Plane](https://github.com/makeplane/plane)**
 - 🌍 Google Summer of Code '23 @ Rocket.Chat · previously DevRel @ Merico
-- 🎤 Been singing from last 10 years, in love with country music
+- 🎤 Singing for the last 10 years, in love with country music
+- ☀️ I use light mode, neovim and tmux, mic drop......
+
+## Let me flex my setup
+
+> PS: My own handcrafted theme, [Koala Neovim](https://github.com/henit-chobisa/koala-neovim), config at [Henit's NVIM Config](https://github.com/henit-chobisa/hc-dotfiles)
+
+<img width="800" alt="my neovim setup" src="https://github.com/user-attachments/assets/319ebfa7-d32a-4c49-bb7c-6cb962dd9ec4" />
 
 ### Tech I work with
 
@@ -33,4 +38,3 @@ deep on how stuff works.
   <a href="https://www.linkedin.com/in/henit-chobisa-260536202/">LinkedIn</a> ·
   <a href="mailto:chobisa.henit@gmail.com">Email</a>
 </p>
-
